@@ -1,0 +1,8 @@
+x = 10;
+y = 5;
+
+printResult(addNumbers(x, y));
+
+def addNumbers(a, b) {
+    return a + b;
+}
